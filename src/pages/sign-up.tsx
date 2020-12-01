@@ -1,9 +1,9 @@
 import Head from 'next/head'
 import Link from 'next/link'
 import Container from '../components/containers/AppContainer'
-import SignInForm from '../components/SignInForm'
+import SignUpForm from '../components/SignUpForm'
 
-const Home: React.FC = () => {
+const SignUp: React.FC = () => {
   return (
     <>
       <Head>
@@ -12,9 +12,9 @@ const Home: React.FC = () => {
 
       <Container>
         <h1 className="logo">MyWallet</h1>
-        <SignInForm />
+        <SignUpForm />
       </Container>
     </>
   )
 }
-export default Home
+export default SignUp;

@@ -13,6 +13,10 @@ export default createGlobalStyle`
   }
 
   h1.logo {
-    font: 400 5vh 'Saira Stencil One', cursive;
+    font: 400 6vh 'Saira Stencil One', cursive;
+  }
+
+  a {
+    text-decoration: none;
   }
 `

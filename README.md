@@ -13,9 +13,10 @@ The following tools and frameworks were used in the construction of the project:
   <img src="https://img.shields.io/badge/next.js%20-%2320232a.svg?&style=for-the-badge&logo=next.js"/>
   <img src='https://img.shields.io/badge/styled components%20-DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white' />
   <img src='https://img.shields.io/badge/eslint%20-4B32C3.svg?&style=for-the-badge&logo=styled-components&logoColor=white' />
-  <img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src='https://img.shields.io/badge/prettier%20-F7B93E.svg?&style=for-the-badge&logo=styled-components&logoColor=white' />
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/postgresql%20-336791.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
 ###
